@@ -8,3 +8,4 @@
 > Android 11
 - [/e/OS v2.3 (05/10/2025)](https://github.com/Vhmit/releases-msm8937/releases/tag/e-2.3-r-20251005-UNOFFICIAL)
 - [LineageOS Revived (06/10/2025)](https://github.com/Vhmit/releases-msm8937/releases/tag/lineage-rev-18.1-20251006-UNOFFICIAL)
+- [crDroid Revived (08/10/2025)](https://github.com/Vhmit/releases-msm8937/releases/tag/crDroid-rev-11.0-20251008-v7-SEP25)
